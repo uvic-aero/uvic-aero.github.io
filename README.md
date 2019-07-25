@@ -1,4 +1,6 @@
-# uvic-aero.github.io
-Wiki for UVic Aero
+# UVic Aero Documentation Wiki
 
-[link](software/test.md)
+## Software
+* [Test](software/test.md)
+## Mechanical
+## Electrical
