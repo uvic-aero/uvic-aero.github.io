@@ -1,4 +1,4 @@
 # uvic-aero.github.io
 Wiki for UVic Aero
 
-[link](software/test)
+[link](software/test.md)
