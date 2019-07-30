@@ -17,4 +17,4 @@ This section is designed for projects which have been started by active or curre
 ## Completed Projects
 This section is an archive of projects that have been completed as part of AERO to help future members understand how to use different devices which have previously been developed.
 
-* [Ranger Multirotor](/Ranger/Documentation.md)
+* [Ranger Multirotor](./Ranger/Documentation.md)
