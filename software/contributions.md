@@ -1,6 +1,6 @@
 ### Contributions
 
-If you are on this page it means you are most likely interested in contributing to a software project in this organization. We are happy to see that you have an interest in our team and that you are helping us build out our systems! In order to stay organized and avoid introcing bugd into our source code we have created a protocol that must be followed by all contributors when modifying the codebase.
+If you are on this page it means you are most likely interested in contributing to a software project in this organization. We are happy to see that you have an interest in our team and that you are helping us build out our systems! In order to stay organized and avoid introducing bugs into our source code we have created a protocol that must be followed by all contributors when modifying the codebase.
 
 ### Overview
 
@@ -18,13 +18,17 @@ The process of contributing can be broken up into these simple steps. Each step 
 #### Issues
 * What are github issues
 * making an new issue
+  * github screen shots
 * assigning yourself to an issue
+  * Screen shots
 * Using kanban board to change state of an issue
+  * screen shots
 
 #### Feature Branch 
 * making a new branch 
 * naming the branch after the feature you are creating
 * ? linking branch to issue ?
+  * Screen shots?
 
 #### Coding
 * Talk about any coding conventions used in aero ie. obc structure
@@ -35,7 +39,9 @@ The process of contributing can be broken up into these simple steps. Each step 
 
 #### Pull Request
 * Creating a pull request on github
+  * Screen shots
 * assigning people
+  * Screen shots
 * Iterative process, show comments and feedback, suggestions etc...
 
 #### Document
@@ -44,4 +50,4 @@ The process of contributing can be broken up into these simple steps. Each step 
 
 #### Merge
 * After the pull request has been approved by at least 2 peers (one owner and one member), merge the branch
-* Show screen shots of merging
+  * Show screen shots of merging
