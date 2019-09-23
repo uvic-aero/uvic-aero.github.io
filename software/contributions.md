@@ -6,7 +6,7 @@ If you are on this page it means you are most likely interested in contributing 
 
 The process of contributing can be broken up into these simple steps. Each step is defined in a higher resolution through this document.
 
-1. Create or Assign Issue
+1. Create or Assign [Issue](#issues)
 1. Create Feature Branch
 1. Develop Feature
 1. Rebase Feature Branch
