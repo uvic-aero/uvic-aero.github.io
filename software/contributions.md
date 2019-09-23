@@ -6,14 +6,14 @@ If you are on this page it means you are most likely interested in contributing 
 
 The process of contributing can be broken up into these simple steps. Each step is defined in a higher resolution through this document.
 
-1. Create or Assign [Issue](#issues)
-1. Create Feature Branch
-1. Develop Feature
-1. Rebase Feature Branch
-1. Create Pull Request
-1. Peer Review (Iterative Process)
-1. Document Feature
-1. Merge Feature Branch
+1. [Create or Assign Issue](#issues)
+1. [Create Feature Branch](#feature-branch)
+1. [Develop Feature](#coding)
+1. [Rebase Feature Branch](#rebase)
+1. [Create Pull Request](#pull-request)
+1. [Peer Review (Iterative Process)](#pull-request)
+1. [Document Feature](#document)
+1. [Merge Feature Branch](#merge)
 
 ## Issues
 * What are github issues
