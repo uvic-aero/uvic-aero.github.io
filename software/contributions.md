@@ -21,7 +21,7 @@ The process of contributing can be broken up into these simple steps. Each step 
 * What are github issues?
 A github issue is a task with a detailed description of what must be done in order to complete that task. For Aero each branch that is created will have a corresponding issue. Issues are labelled as either a **feature**, **bug**, or an **enhancement** depending on what label best suites the task description.
 
-* [making an new issue](https://help.github.com/en/articles/creating-an-issue)
+* [making a new issue](https://help.github.com/en/articles/creating-an-issue)
 
 * [assigning yourself to an issue](https://help.github.com/en/articles/assigning-issues-and-pull-requests-to-other-github-users)
 
