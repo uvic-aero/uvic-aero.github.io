@@ -1,8 +1,8 @@
-### Contributions
+## Contributions
 
 If you are on this page it means you are most likely interested in contributing to a software project in this organization. We are happy to see that you have an interest in our team and that you are helping us build out our systems! In order to stay organized and avoid introducing bugs into our source code we have created a protocol that must be followed by all contributors when modifying the codebase.
 
-### Overview
+# Overview
 
 The process of contributing can be broken up into these simple steps. Each step is defined in a higher resolution through this document.
 
