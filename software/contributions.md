@@ -4,14 +4,14 @@ If you are on this page it means you are most likely interested in contributing 
 
 ## Overview
 
-The Aero software team is adopting a Kanban development workflow. Each repository has a project [Kanban](https://help.github.com/en/articles/about-project-boards#templates-for-project-boards) conisting of github [issues](https://guides.github.com/features/issues/). Issues represent features, bugs, and enhancements and are labelled as such. Each issue is part of a milestone which is defined on the organization level.  
+The Aero software team is adopting a [Kanban](https://help.github.com/en/articles/about-project-boards#templates-for-project-boards), [feature-branch](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) development workflow. Each repository has a project [Kanban](https://help.github.com/en/articles/about-project-boards#templates-for-project-boards) conisting of github [issues](https://guides.github.com/features/issues/). Issues represent features, bugs, and enhancements and are labelled as such. Each issue is part of a milestone which is defined on the organization level. Feature branches are created for each issue.
 
 The process of contributing can be broken up into these simple steps. Each step is defined in a higher resolution through this document. 
 
 1. [Create or Assign Issue](#issues)
 1. [Create Feature Branch](#feature-branch)
 1. [Develop Feature Branch](#coding)
-1. [Rebase Feature Branch](#rebase)
+1. [Rebase/Merge Feature Branch](#rebase-or-merge)
 1. [Create Pull Request](#pull-request)
 1. [Code Review (Iterative Process)](#pull-request)
 1. [Document Issue](#document)
@@ -38,14 +38,15 @@ A github issue is a task with a detailed description of what must be done in ord
 ## Coding
 * Talk about any coding conventions used in aero ie. obc structure
 
-## Rebase
-* Prior to a pull request feature branch must be rebased onto master
-* in some situations it is ok to merge master into feature branch instead of rebasing
+## Rebase or Merge
+Prior to a pull request feature branch must be either
+ * rebased onto master, or
+ * master must be merged into the feature branch
 
 ## Pull Request
-* Creating a pull request on github
+* [Creating a pull request on github](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
   * Screen shots
-* assigning people
+* assign reviewers
   * Screen shots
 * Iterative process, show comments and feedback, suggestions etc...
 
