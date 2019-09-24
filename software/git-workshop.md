@@ -18,36 +18,31 @@ This tutorial will cover the basics of git:
 1. [Git Configuration](#git-configuration)
 1. [Cloning](#cloning)
 1. [Branching](#branching)
-1. [Committing](#commiting)
+1. [Committing](#committing)
 1. [Pushing](#pushing)
 1. [Rebase/Merge](#rebase-or-merge)
 1. [Git Ignore](#git-ignore)
 
 ## Git Configuration
-
 * Repo level git config
 * Global leve git config
 
 ## Cloning
-
 * `git clone [repository name]`
 * HTTP vs SSH
 
 ## Branching
-
 * `git checkout [branch_name]`
 * `git checkout -b [new_branch_name]`
 * `git branch`
 
 ## Committing
-
 * `git commit -a -m "[a description of your commit]"`
 * Flags?
-* * `-a` Tells the command to automatically stage files that have been modified and deleted, but new files you have not told Git about are not affected.
-** `-m <message>` specifies `<message>` as the commit message
+  * `-a` Tells the command to automatically stage files that have been modified and deleted, but new files you have not told Git about are not affected.
+  * `-m <message>` specifies `<message>` as the commit message
 
 ## Pushing
-
 * `git push`
 
 ## Rebase or Merge
