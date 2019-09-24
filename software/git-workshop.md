@@ -1,6 +1,5 @@
 # Git Workshop
-
-This is a workshop tutorial meant to get you up to speed with basic usage of git.
+This workshop's purpose is to get you up to speed with basics of git!
 
 ## What is Git?
 Git is a distributed version-control system for tracking changes in source code during software development. 
