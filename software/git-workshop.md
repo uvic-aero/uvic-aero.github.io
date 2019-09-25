@@ -20,8 +20,17 @@ This tutorial will cover the basics of git:
 1. [Branching](#branching)
 1. [Committing](#committing)
 1. [Pushing](#pushing)
+1. [Merge Conflicts]()
 1. [Rebase/Merge](#rebase-or-merge)
 1. [Git Ignore](#git-ignore)
+
+Github Development Tools
+1. Issues
+1. Kanban Boards
+1. Assignees
+1. Commits
+1. Pull Requests
+ * Peer Review
 
 ## Git Configuration
 * Repo level git config
