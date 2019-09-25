@@ -15,14 +15,15 @@ So basically, if you and I are working on the same code, we can:
 
 This tutorial will cover the basics of git:
 
-1. [Git Configuration](#git-configuration)
 1. [Cloning](#cloning)
 1. [Branching](#branching)
+1. [Git Configuration](#git-configuration)
 1. [Committing](#committing)
 1. [Pushing](#pushing)
 1. [Merge Conflicts]()
 1. [Rebase/Merge](#rebase-or-merge)
 1. [Git Ignore](#git-ignore)
+1  [Bonus stuff](#bonus-stuff)
 
 Github Development Tools
 1. Issues
@@ -32,15 +33,6 @@ Github Development Tools
 1. Pull Requests
  * Peer Review
 
-## Git Configuration
-* Local (Repo) level git config
-  * Scoped to the current repository directory you are in
-  * `git config user.name=[your_github_username]`
-  * `git config user.email=[your_email]`
-* Global level git config
-  * `--global` scoped to repositories in the home directory
-  * `--system` scoped to all repositories in your local filesystem
-
 ## Cloning
 * `git clone [repository name]`
 * HTTP vs SSH
@@ -49,6 +41,15 @@ Github Development Tools
 * `git checkout [branch_name]`
 * `git checkout -b [new_branch_name]`
 * `git branch`
+
+## Git Configuration
+* Local (Repo) level git config
+  * Scoped to the current repository directory you are in
+  * `git config user.name=[your_github_username]`
+  * `git config user.email=[your_email]`
+* Global level git config
+  * `--global` scoped to repositories in the home directory
+  * `--system` scoped to all repositories in your local filesystem
 
 ## Committing
 * `git commit -a -m "[a description of your commit]"`
@@ -68,3 +69,6 @@ Github Development Tools
 
 ## Git Ignore
 * `.gitignore`
+
+## Bonus stuff
+* SSH key pairs
