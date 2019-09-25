@@ -23,31 +23,38 @@ A github issue is a task with a detailed description of what must be done in ord
 
 * [making a new issue](https://help.github.com/en/articles/creating-an-issue)
 
+![new-issue](images/new-issue.png)
+
 * [assigning yourself to an issue](https://help.github.com/en/articles/assigning-issues-and-pull-requests-to-other-github-users)
 
+![new-issue](images/assign-issue.png)
+
 * [Add issue to the project kanban](https://help.github.com/en/articles/adding-issues-and-pull-requests-to-a-project-board#adding-issues-and-pull-requests-to-a-project-board-from-the-sidebar)
+* As shown in the screenshot, this can be done in the projects section within the right sidebar.
 
 * You may also choose to [put your issue in a milestone](https://help.github.com/en/articles/associating-milestones-with-issues-and-pull-requests). However, organizing milestones will usually be planned together as a team :).
 
 ## Feature Branch 
-* making a new branch 
-* naming the branch after the issue you created
-* ? linking branch to issue ?
-  * Screen shots?
+* `git checkout -b [feature_branch_name]`
 
 ## Coding
 * Talk about any coding conventions used in aero ie. obc structure
 
 ## Rebase or Merge
 Prior to a pull request feature branch must be either
- * rebased onto master, or
- * master must be merged into the feature branch
+ * rebased onto master
+   * `git rebase master`
+ * or the master can be merged into the feature branch and then feature branch can be merged into master.
+   * `git merge master`
+   * `git checkout master`
+   * `git merge [feature_branch_name]`
+
 
 ## Pull Request
 * [Creating a pull request on github](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
-  * Screen shots
+![pull-request](images/new-pull-request.png)
+![pull-request](images/pull-request.png)
 * assign reviewers
-  * Screen shots
 * Iterative process, show comments and feedback, suggestions etc...
 
 ## Document
