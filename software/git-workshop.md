@@ -34,12 +34,12 @@ Github Development Tools
 
 ## Git Configuration
 * Local (Repo) level git config
- * Scoped to the current repository directory you are in
- * `git config user.name=[your_github_username]`
- * `git config user.email=[your_email]`
+  * Scoped to the current repository directory you are in
+  * `git config user.name=[your_github_username]`
+  * `git config user.email=[your_email]`
 * Global level git config
- * `--global` scoped to repositories in the home directory
- * `--system` scoped to all repositories in your local filesystem
+  * `--global` scoped to repositories in the home directory
+  * `--system` scoped to all repositories in your local filesystem
 
 ## Cloning
 * `git clone [repository name]`
