@@ -1,3 +1,3 @@
 # Projects
-[Computer Vision](computervision/computervision.md)
+[Computer Vision](computervision.md)
 [On Board Computer]
