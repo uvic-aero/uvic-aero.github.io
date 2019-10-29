@@ -14,9 +14,7 @@ __Work In Progress__
 * [Hex V2.0](HexV2.md)
 * Placeholder: Pixhawk flight controller
 * Placeholder: Ground station Infrastructure (antennas, software, etc)
-* Placeholder: Radio Carrier Board (Work In Progress)
 
 ### Payload Systems
 * Placeholder: Dropper System
 * Placeholder: Servo Gimbal
-* Placeholder: 3-axis BLDC Camera Gimbal (Work In Progress)
