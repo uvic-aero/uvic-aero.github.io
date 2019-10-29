@@ -25,18 +25,4 @@ The following are entry-point links for the various sub-teams.
 ### Electrical and Embedded
 
 ## Systems
-The following are links to various completed and in-progress projects.
-
-### Aircraft and Flight Systems
-* Placeholder: Raven
-* Placeholder: Hex V1.0
-* Placeholder: Hex V2.0
-* Placeholder: Pixhawk flight controller
-* Placeholder: Ground station Infrastructure (antennas, software, etc)
-* Placeholder: Radio Carrier Board (Work In Progress)
-
-### Payload Systems
-* Placeholder: Dropper System
-* Placeholder: Servo Gimbal
-* Placeholder: 3-axis BLDC Camera Gimbal (Work In Progress)
-* Placeholder: 
+Read information on the UVic AERO existing infrastructure and technical ecosystem [here](systems/systems.md). 
