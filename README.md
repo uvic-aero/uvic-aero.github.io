@@ -24,5 +24,8 @@ The following are entry-point links for the various sub-teams.
 
 ### Electrical and Embedded
 
-## Systems
-Read information on the UVic AERO existing infrastructure and technical ecosystem [here](systems/systems.md). 
+## Systems in Use
+Read information on the UVic AERO existing infrastructure and technical ecosystem [here](systems/systems.md).
+
+## Projects in Progress
+Read about ongoing projects [here](systems/projects_in_progress.md).
