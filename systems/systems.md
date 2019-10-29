@@ -8,7 +8,7 @@ __Work In Progress__
 
 ## More information on individual subsystems
 
-## Aircraft and Flight Systems
+### Aircraft and Flight Systems
 * [Raven](raven.md)
 * [Hex V1.0](HexV1.md)
 * [Hex V2.0](HexV2.md)
@@ -16,7 +16,7 @@ __Work In Progress__
 * Placeholder: Ground station Infrastructure (antennas, software, etc)
 * Placeholder: Radio Carrier Board (Work In Progress)
 
-## Payload Systems
+### Payload Systems
 * Placeholder: Dropper System
 * Placeholder: Servo Gimbal
 * Placeholder: 3-axis BLDC Camera Gimbal (Work In Progress)
