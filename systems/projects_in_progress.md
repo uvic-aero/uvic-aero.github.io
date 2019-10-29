@@ -4,5 +4,5 @@ This page serves as a list of project pages that are still in progress. Once com
 
 ## List
 
-* [Radio Carrier Board](radio_carrier_board.md)
-* [3-Axis BLDC Camera Gimbal](bldc_camera_gimbal.md)
+* [Radio Carrier Board](aircraft_systems/radio_carrier_board.md)
+* [3-Axis BLDC Camera Gimbal](payloads_2020/bldc_camera_gimbal.md)
