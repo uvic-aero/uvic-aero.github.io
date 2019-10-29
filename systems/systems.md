@@ -17,4 +17,4 @@ __Work In Progress__
 
 ### Payload Systems
 * Placeholder: Dropper System
-* [Servo Gimbal](payloads/payloads_2019/servo_gimbal.md)
+* [Servo Gimbal](payloads/servo_gimbal/servo_gimbal.md)
