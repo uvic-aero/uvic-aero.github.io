@@ -9,11 +9,11 @@ __Work In Progress__
 ## More information on individual subsystems
 
 ### Aircraft and Flight Systems
-* [Raven](aircraft_systems/raven.md)
-* [Hex V1.0](aircraft_systems/HexV1.md)
-* [Hex V2.0](aircraft_systems/HexV2.md)
-* Placeholder: Pixhawk flight controller
-* Placeholder: Ground station Infrastructure (antennas, software, etc)
+* [Raven](aircraft/raven.md)
+* [Hex V1.0](aircraft/HexV1.md)
+* [Hex V2.0](aircraft/HexV2.md)
+* [Pixhawk Flight Controller](aircraft_systems/pixhawk.md)
+* [Ground Systems Infrastructure](ground_systems/ground_systems_overview.md)
 
 ### Payload Systems
 * Placeholder: Dropper System
