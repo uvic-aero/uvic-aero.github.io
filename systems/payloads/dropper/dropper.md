@@ -66,7 +66,7 @@ The firmware is stored in a repository in bitbucket [here](https://github.com/uv
 ## How to Use
 
 1. If not already done, disconnect any wires from the prototype board
-2. Load the firmware according to the steps [below](### Load Firmware)
+2. Load the firmware according to the steps [below](#load-firmware)
 3. Reattach all cables to the Arduino Nano, WITHOUT connecting the battery.
 4. With all the SERVO ARMS OPEN (no elastics), connect the battery. The servo should spin to its starting position. It is important to follow this instruction exactly since with the elastics on or the arms closed, the servo can push in the wrong direction and either jam or worse break an arm.
 5. Close the arms around the markers, and put the elastics on.
