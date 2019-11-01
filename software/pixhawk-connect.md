@@ -6,7 +6,7 @@ The OBC (a raspberry pi) can be configured to communicate with the Pixhawk over 
 
 [This ardupilot wiki page](http://ardupilot.org/dev/docs/raspberry-pi-via-mavlink.html) details how to set up a serial connection between the Raspberry Pi and Pixhawk.
 
-### Installing dependencies
+### Installing dependencies for OBC
 
 Before starting make sure you have pip installed and are in a Python virtual environement.
 
@@ -14,3 +14,7 @@ Before starting make sure you have pip installed and are in a Python virtual env
 `pip install future`
 `pip install pymavlink`
 `pip install dronekit`
+
+Finally install all the remaining OBC requirements
+
+`pip install -r requirements.txt`
