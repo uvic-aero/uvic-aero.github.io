@@ -11,9 +11,6 @@ The OBC (a raspberry pi) can be configured to communicate with the Pixhawk over 
 Before starting make sure you have pip installed and are in a Python virtual environement.
 
 `apt-get install python-dev`
-`pip install future`
-`pip install pymavlink`
-`pip install dronekit`
 
 Finally install all the remaining OBC requirements
 
