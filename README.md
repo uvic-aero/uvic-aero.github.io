@@ -11,6 +11,9 @@ It's totally normal if you see links in pages that link to other folders. That j
 
 This page should be seen as a table of contents for the documentation.
 
+## About AERO
+To find out information about AERO and related things, visit the ["About" section](about/about.md).
+
 ## Sub-Teams
 The following are entry-point links for the various sub-teams.
 
