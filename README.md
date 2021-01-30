@@ -11,7 +11,7 @@ It's totally normal if you see links in pages that link to other folders. That j
 
 This page should be seen as a table of contents for the documentation.
 
-## Sub-Teams
+## Team Spaces
 The following are entry-point links for the various sub-teams.
 
 ### Software
@@ -23,6 +23,9 @@ The following are entry-point links for the various sub-teams.
 * [Mechanical Overview](mechanical/overview.md)
 
 ### Electrical and Embedded
+* [Overview](elec_embed/overview.md) __Work in progress__
+* [Electrical and Embedded Design Process](elec_embed/design_process.md) __Work in progress__
+* [Work Station](elec_embed/workstation.md)
 
 ## Systems in Use
 Read information on the UVic AERO existing infrastructure and technical ecosystem [here](systems/systems.md).
