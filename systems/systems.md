@@ -16,5 +16,5 @@ __Work In Progress__
 * [Ground Systems Infrastructure](ground_systems/ground_systems_overview.md)
 
 ### Payload Systems
-* Placeholder: Dropper System
+* [Dropper](payloads/dropper/dropper.md)
 * [Servo Gimbal](payloads/servo_gimbal/servo_gimbal.md)
