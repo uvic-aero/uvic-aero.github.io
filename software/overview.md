@@ -1,3 +1,3 @@
 # Projects
 [Computer Vision](computervision.md)
-[On Board Computer]
+[Onboard Computer](pixhawk-connect.md)
